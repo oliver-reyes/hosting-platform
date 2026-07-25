@@ -1,0 +1,7 @@
+name: Vanilla
+minecraft_version: "1.21.8"
+loader: vanilla
+memory: "4GB"
+difficulty: normal
+gamemode: survival
+port: 25565

@@ -1,0 +1,28 @@
+[02:46:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:46:53] [ServerMain/INFO]: Loaded 1407 recipes
+[02:46:53] [ServerMain/INFO]: Loaded 1520 advancements
+[02:46:53] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:46:53] [Server thread/INFO]: Loading properties
+[02:46:53] [Server thread/INFO]: Default game type: SURVIVAL
+[02:46:53] [Server thread/INFO]: Generating keypair
+[02:46:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:46:53] [Server thread/INFO]: Using epoll channel type
+[02:46:53] [Server thread/INFO]: Preparing level "world"
+[02:46:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:46:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:46:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:46:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:46:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:46:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:46:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:46:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:46:57] [Server thread/INFO]: Time elapsed: 3673 ms
+[02:46:57] [Server thread/INFO]: Done (4.111s)! For help, type "help"
+[02:46:57] [Server thread/INFO]: Starting remote control listener
+[02:46:57] [Server thread/INFO]: Thread RCON Listener started
+[02:46:57] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[02:47:01] [User Authenticator #1/INFO]: UUID of player o1iv3s is 3c074f15-11b5-4dd7-b1e3-caa1d4a7afcf
+[02:47:02] [Server thread/INFO]: o1iv3s[/192.168.1.147:50461] logged in with entity id 119 at (-650.5123915648126, 63.0, -665.8745815176148)
+[02:47:02] [Server thread/INFO]: o1iv3s joined the game
+[02:47:04] [Server thread/INFO]: o1iv3s lost connection: Disconnected
+[02:47:04] [Server thread/INFO]: o1iv3s left the game

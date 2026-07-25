@@ -1,0 +1,18 @@
+services:
+  minecraft:
+    image: itzg/minecraft-server
+    container_name: minecraft-server
+
+    ports:
+      - "25565:25565"
+
+    environment:
+      EULA: "TRUE"
+      TYPE: ${MC_TYPE}
+      VERSION: ${MC_VERSION}
+      MEMORY: ${MC_MEMORY}
+
+    volumes:
+      - ${MC_DATA_PATH}:/data
+
+    restart: unless-stopped
